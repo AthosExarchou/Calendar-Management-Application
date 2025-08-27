@@ -9,8 +9,6 @@ The project is a Calendar Management Application, developed in two distinct part
 ## Project Structure
 ```text
 .
-├── report_el.pdf (project report in greek)
-├── README.md (root README file)
 ├── Part1/
 |   ├── Calendar/
 │       ├── src/
@@ -23,6 +21,10 @@ The project is a Calendar Management Application, developed in two distinct part
 │       ├── calendar_logo.png
 │       ├── pom.xml
 │       └── README.md (Part 2 README file)
+├── .gitignore
+├── LICENSE (MIT license)
+├── README.md (root README file)
+└── report_el.pdf (project report in greek)
 ```
 
 For more detailed information on each part, please refer to the respective `README.md` files:
