@@ -1,6 +1,6 @@
 # Calendar Management Application (part 1 of 2)
 
-Developed as a group project for the **Object-Oriented Programming-II** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://www.dit.hua.gr), **Calendar Management Application (part 1 of 2)** is a command-line Java application for managing events.
+Developed as a group project for the **Object-Oriented Programming-II** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://dit.hua.gr), **Calendar Management Application (part 1 of 2)** is a command-line Java application for managing events.
 It allows users to manage appointments and tasks, storing them in the standard iCal (`.ics`) file format.
 
 ## Description
