@@ -1,6 +1,6 @@
 # Calendar Management Application (part 2 of 2)
 
-Developed as a group project for the **Object-Oriented Programming-II** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://www.dit.hua.gr), **Calendar Management Application (part 2 of 2)** is a graphical user interface (GUI) application for managing events.
+Developed as a group project for the **Object-Oriented Programming-II** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://dit.hua.gr), **Calendar Management Application (part 2 of 2)** is a graphical user interface (GUI) application for managing events.
 It expands on the functionality of part 1 by adding a full-featured GUI, event reminders, and more.
 
 ## Description
