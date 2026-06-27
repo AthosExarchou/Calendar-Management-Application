@@ -1,6 +1,6 @@
 # Calendar Management Application
 
-This is a group project for the **Object-Oriented Programming-II** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://www.dit.hua.gr).
+This is a group project for the **Object-Oriented Programming-II** course at [Harokopio University of Athens – Dept. of Informatics and Telematics](https://dit.hua.gr).
 The project is a Calendar Management Application, developed in two distinct parts.
 
 * **Part 1** is a command-line application.
